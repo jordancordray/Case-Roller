@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-19fae5404e88cea86ad7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "canvasDesign",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "canvasDesign::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-canvasDesign-Debug-f598eaef2754e271a223.json",
+					"name" : "canvasDesign",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "canvasDesign_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-canvasDesign_autogen-Debug-70d62f56ca5922a0b2c0.json",
+					"name" : "canvasDesign_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "canvasDesign_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-canvasDesign_autogen_timestamp_deps-Debug-fc8af58075bcec7ac683.json",
+					"name" : "canvasDesign_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/schla/OneDrive/Desktop/C++sprint/canvasDesign/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/schla/OneDrive/Desktop/C++sprint/canvasDesign"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
